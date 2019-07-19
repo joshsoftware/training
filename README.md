@@ -120,3 +120,56 @@
   * SQL join and  group_by queries
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Ruby on Rails Training Plan
+ * 2hrs
+ * Build one app (e.g blogs app) during training with interns
+ * In remaining day, interns will implement learned topics on individual projects
+ * let interns choose their own project topics for practice
+ 
+ ### Day 1 - Getting started with web development
+ ```
+RESTful design
+MVC architecture
+Install rails, create rails app
+General  layout of rails
+```
+
+### Day 2 - Model
+```
+Basic
+Migrations
+Validations
+Callbacks
+Associations
+Query Interface
+```
+### Day 3 - Controllers
+```
+Basics
+Callbacks
+Routes
+```
+### Day 4 - Views
+```
+Layout and rendering
+Using render, redirect_to
+Option for render
+Action view form helper
+Basic forms
+```
+### Day 5 - Some necessary concepts
+```
+Active Model Serializer
+JWT token authentication
+Devise password validation
+Versioning of API and directory structure
+```
+#### Assignment - 
+* gem Devise only - database-authenticable
+* Sign_up, sign_in API’s
+* JWT token authentication - gem jwt
+			
+### Day 6 - Rspec Test cases & API documentation
