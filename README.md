@@ -35,6 +35,7 @@
 ### Day 3  -  Basic Syntax, Built in Types, Regex
 ```
   Operators and Precedence.
+  Array
   Hashes
   Regex
   String
